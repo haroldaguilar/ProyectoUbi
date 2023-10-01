@@ -1,6 +1,7 @@
 # Album Digital Coleccionable
 [![Imagen](https://github.com/haroldaguilar/ProyectoUbi/blob/main/mockup-1.%20Inico.drawio.png "Imagen")](https://github.com/haroldaguilar/ProyectoUbi/blob/main/mockup-1.%20Inico.drawio.png "Imagen")
-
+### Objetivo
+Crear una plataforma web para que los usuarios coleccionen figuras digitales, con un sistema de administración de cuentas que permita al administrador controlar el progreso de los usuarios y bannear cuentas en caso de ser necesario.
 ### Descripción
 Plataforma web para un álbum digital coleccionable, con un administrador de cuentas. Los usuarios pueden solicitar su registro en el sistema, podrán abrir 3 sobres cada día, cada sobre contendrá 5 figuras que se agregarán a su álbum automáticamente. El administrador podrá bannear las cuentas de usuarios, también podrá ver el progreso de llenado de álbum de cada cuenta, también podrá visualizar la región/pais/ip del país que se conecta el usuario.
 ### Características principales
