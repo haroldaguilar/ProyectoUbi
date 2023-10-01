@@ -9,12 +9,16 @@ El juego es una herramienta fundamental para el aprendizaje, ya que permite a lo
 Específicamente, el proyecto de álbum digital coleccionable puede contribuir al aprendizaje lúdico de la siguiente manera:
 
 •	Motivación: El juego es una actividad motivadora que atrae la atención de los niños y niñas. Un álbum digital coleccionable puede ser una forma divertida y atractiva de aprender nuevos contenidos.
+
 •	Participación: El juego requiere la participación activa de los niños y niñas. Un álbum digital coleccionable puede ser una forma de involucrar a los niños y niñas en el aprendizaje, haciéndolos sentir protagonistas de su propio aprendizaje.
+
 •	Evaluación: El juego puede ser una forma de evaluar el aprendizaje de los niños y niñas. Un álbum digital coleccionable puede ser una forma de evaluar el progreso de los niños y niñas en el aprendizaje de nuevos contenidos.
 A continuación, se presentan algunos ejemplos de cómo se puede utilizar un álbum digital coleccionable para promover el aprendizaje lúdico:
 
 •	Álbum de historia: El álbum puede contener figuras de personajes históricos, eventos o lugares. Los niños y niñas pueden aprender sobre la historia al completar el álbum.
+
 •	Álbum de geografía: El álbum puede contener figuras de animales, plantas o paisajes de diferentes lugares del mundo. Los niños y niñas pueden aprender sobre geografía al completar el álbum.
+
 •	Álbum de ciencias: El álbum puede contener figuras de objetos, fenómenos o procesos científicos. Los niños y niñas pueden aprender sobre ciencias al completar el álbum.
 En conclusión, el proyecto de álbum digital coleccionable puede ser una herramienta lúdica que promueva el aprendizaje de diferentes contenidos.
 ### Descripción
