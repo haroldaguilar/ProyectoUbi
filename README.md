@@ -10,7 +10,7 @@ Plataforma web para un álbum digital coleccionable, con un administrador de cue
 ### Instalación
 Para instalar el proyecto, siga estos pasos:
 1.	Clone el repositorio de GitHub:
-git clone https://github.com/[nombre de usuario]/album-digital-coleccionable.git
+git clone [https://github.com/[nombre de usuario]/album-digital-coleccionable.git](https://github.com/haroldaguilar/ProyectoUb)
 2.	Instale las dependencias:
 pip install -r requirements.txt
 3.	Ejecute el proyecto:
